@@ -8,6 +8,7 @@ menu.onclick = () =>{
   searchForm.classList.remove('active');
 }
 
+
 let searchIcon = document.querySelector('#search-icon');
 let searchForm = document.querySelector('.search-form');
 
