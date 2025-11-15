@@ -1,5 +1,6 @@
 jQuery(document).ready(function ($) {
 
+	
     detectHeight();
 
     $('#banner-carousel').owlCarousel({
